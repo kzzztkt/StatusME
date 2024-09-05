@@ -7,7 +7,7 @@ const App: React.FC = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View>
-        <Text style={styles.text}>Welcome to My React Native App!</Text>
+        <Text style={styles.text}>Welcome to My React Native pp!</Text>
       </View>
     </SafeAreaView>
   );
