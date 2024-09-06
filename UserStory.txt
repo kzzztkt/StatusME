@@ -1,0 +1,12 @@
+1. User logs in or creates an account using emails or socials e.g. facebook, gmail 
+2. User must provide name on set up for profile
+3. The main pages in the app are - Settings, My Status, Hub, Friend Status.
+4. On Settings page User can - change name, change password, change email, log out, change colour scheme, set name icon colour, set notification settings. 
+5. On My Status page User can - add and remove daily activities (for friends to see). 
+6. The activities on My Status page will be listed with icons of friends who will join.
+7. Creating an acivity on My Status page User can input - What, when, where, who. What and who is manditory. When and where is not. Who will be a toddle auto set to 'all friends'. If User switches off they must then select friends to share Status with.
+8. The Hub page will be a space filled friends viewed as icons with initials inside. Each icon (friend) will be surround by activity icons with images in the middle e.g. a coffee cup or a book.
+9. A User can click on a friend to see daily activities (similar lay out to 'My Status' but on a view only basis)
+10. A user can then tick a 'Joining' button on friends activity alerting friend of the interest. 
+11. Once user has clicked 'Joining' it will open a new message on message page. Once the activity is over the messages will disapear
+12. If a friend updates information of activity, any 'Joining' users will be alerted of the change via notification 
